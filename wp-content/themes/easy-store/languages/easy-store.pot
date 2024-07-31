@@ -1,0 +1,1448 @@
+# Copyright (C) 2017 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2024-05-14 10:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;"
+
+#: inc/admin/es-class-dashboard.php:375
+msgid "$59.99"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:50
+#, php-format
+msgid "%1$s Dashboard"
+msgstr ""
+
+#: inc/admin/es-class-notice.php:136
+#, php-format
+msgid ""
+"%1$s is now installed and ready to use. Now that you are part of us. We have "
+"curated some important links for you to get rolling."
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:78
+#, php-format
+msgid "%1$s Options"
+msgstr ""
+
+#: inc/woocommerce.php:225
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce.php:289
+#, php-format
+msgid "%s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:50
+msgid ", "
+msgstr ""
+
+#: inc/widgets/es-widget-fields.php:128 inc/widgets/es-widget-fields.php:167
+msgid "- - Select Category - -"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:389 inc/admin/es-class-dashboard.php:404
+msgid "1"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:390 inc/admin/es-class-dashboard.php:405
+msgid "3"
+msgstr ""
+
+#: inc/customizer/es-customizer-helper.php:134
+msgid "3+ header layouts."
+msgstr ""
+
+#: 404.php:18
+msgid "404"
+msgstr ""
+
+#: inc/es-breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:400
+msgid "600+"
+msgstr ""
+
+#: inc/widgets/es-social-media.php:18
+msgid "A widget shows the social media icons."
+msgstr ""
+
+#: inc/widgets/es-advance-product-search.php:18
+msgid "About search product in specific categories."
+msgstr ""
+
+#: inc/admin/es-class-notice.php:106
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:502
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/es-class-admin.php:471
+msgid "Activate Now"
+msgstr ""
+
+#: inc/admin/es-class-admin.php:470
+msgid "Activated"
+msgstr ""
+
+#: inc/admin/es-class-admin.php:470
+msgid "Activating"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:199
+msgid "Add Icon"
+msgstr ""
+
+#: inc/customizer/es-header-panel.php:87
+msgid "Add Item"
+msgstr ""
+
+#: inc/customizer/es-frontpage-panel.php:64
+msgid "Add Promo"
+msgstr ""
+
+#: inc/customizer/es-frontpage-panel.php:120
+msgid "Add Sponsor"
+msgstr ""
+
+#: inc/customizer/es-customizer-stater.php:68
+msgid "Add To Cart"
+msgstr ""
+
+#: inc/widgets/es-slider.php:72
+msgid "Add to cart"
+msgstr ""
+
+#: inc/customizer/es-customizer-stater.php:69
+msgid "Add To Wishlist"
+msgstr ""
+
+#: inc/customizer/es-customizer-helper.php:132
+msgid "Add unlimited social icons field."
+msgstr ""
+
+#: inc/widgets/es-widget-functions.php:27
+#: inc/widgets/es-widget-functions.php:42
+#: inc/widgets/es-widget-functions.php:58
+#: inc/widgets/es-widget-functions.php:73
+#: inc/widgets/es-widget-functions.php:88
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/es-widget-functions.php:103
+msgid "Added widgets are display at Footer Widget Area."
+msgstr ""
+
+#: inc/customizer/es-customizer-helper.php:134
+msgid "Additional features for elements."
+msgstr ""
+
+#: inc/widgets/es-advance-product-search.php:72
+msgid "All Categories"
+msgstr ""
+
+#: inc/widgets/es-promo-items.php:47
+msgid "All Promo Items are managed in customizer Additional Panel."
+msgstr ""
+
+#: inc/customizer/es-frontpage-panel.php:59
+msgid ""
+"All promo items will be display via <strong>ES: Promo Items</strong> widget."
+msgstr ""
+
+#: inc/customizer/es-frontpage-panel.php:115
+msgid ""
+"All sponsors items will be display via <strong>ES: Sponsors</strong> widget."
+msgstr ""
+
+#: inc/widgets/es-sponsors.php:46
+msgid "All sponsors logo are managed in customizer Additional Panel."
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:403
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/customizer/es-innerpage-panel.php:38
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:350
+msgid "Archive/Blog Sidebar Layout"
+msgstr ""
+
+#: inc/es-breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#: inc/customizer/es-footer-panel.php:124
+msgid "Bottom Footer"
+msgstr ""
+
+#: inc/customizer/es-customizer-helper.php:33
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:247
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/es-breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/es-breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:433
+msgid "Browser Compatibility"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:309
+msgid "Buy Now"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:446 inc/customizer/customizer.php:44
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/customizer/es-header-panel.php:231
+msgid "Cart Box Text"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:497
+#: inc/customizer/es-general-panel.php:519
+msgid "Cart button label"
+msgstr ""
+
+#: inc/widgets/es-slider.php:51
+msgid "Categories"
+msgstr ""
+
+#: inc/widgets/es-slider.php:42
+msgid "Category Menu"
+msgstr ""
+
+#: inc/widgets/es-slider.php:50
+msgid "Category Menu Title"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:106
+msgid "Changelog"
+msgstr ""
+
+#: inc/admin/es-class-notice.php:110
+msgid "Cheat in &#8217; huh?"
+msgstr ""
+
+#: inc/widgets/es-slider.php:43
+msgid "Checked to show woocommerce category menu at left side."
+msgstr ""
+
+#: inc/customizer/es-header-panel.php:93
+msgid "Choose icon for single item from available lists."
+msgstr ""
+
+#: inc/customizer/es-frontpage-panel.php:70
+msgid "Choose icon for single promo from available lists."
+msgstr ""
+
+#: inc/customizer/es-footer-panel.php:81
+msgid "Choose number of column at footer widget area."
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:205
+msgid "Choose social media icon."
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:314
+msgid "Click to import demo"
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/class-repeater-control.php:166
+msgid "Close"
+msgstr ""
+
+#: inc/widgets/es-categories-collection.php:48
+msgid "Collection"
+msgstr ""
+
+#: inc/customizer/es-customizer-helper.php:136
+msgid "Color Option"
+msgstr ""
+
+#: inc/template-tags.php:19
+msgid "Comment 0"
+msgstr ""
+
+#: inc/template-tags.php:19
+msgid "Comment 1"
+msgstr ""
+
+#. %s is the page number.
+#: inc/es-breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: inc/template-tags.php:19
+msgid "Comments %"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/es-class-notice.php:133
+msgid "Congratulations!"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:204 inc/admin/es-class-dashboard.php:209
+msgid "Contact Support"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:27
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer/es-footer-panel.php:141
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:532
+msgid "Currently, no single plugin was listed."
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:423
+msgid "Custom 404 Page"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:479
+msgid "Customize general settings about wooCommerce."
+msgstr ""
+
+#: inc/admin/es-class-notice.php:161
+msgid "Customize your site"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:160
+msgid "Customizer quick link"
+msgstr ""
+
+#: inc/es-breadcrumbs.php:790 inc/es-breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:496
+msgid "Deactivate"
+msgstr ""
+
+#: inc/widgets/es-slider.php:35
+msgid "Default Category"
+msgstr ""
+
+#: inc/es-post-sidebar-meta.php:41
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/class-repeater-control.php:165
+msgid "Delete"
+msgstr ""
+
+#: inc/admin/es-class-notice.php:173
+msgid "Demo"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:316
+msgid "Demo importer plugin is not installed or activated"
+msgstr ""
+
+#: inc/customizer/es-customizer-helper.php:132
+#: inc/customizer/es-customizer-helper.php:136
+msgid "Device visibility"
+msgstr ""
+
+#: inc/customizer/es-customizer-helper.php:138
+msgid "Different Background Type"
+msgstr ""
+
+#: inc/admin/es-class-notice.php:130
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/widgets/es-call-to-action.php:18
+msgid "Display content as Call To Action."
+msgstr ""
+
+#: inc/widgets/es-categories-collection.php:18
+msgid "Display details of selected categories in selective layouts."
+msgstr ""
+
+#: inc/widgets/es-latest-posts.php:18
+msgid "Display latest posts from selected categories."
+msgstr ""
+
+#: inc/widgets/es-testimonials.php:18
+msgid "Display latest testimonials posts from selected category."
+msgstr ""
+
+#: inc/widgets/es-sponsors.php:18
+msgid "Display logo of sponsors which content are managed from customizer."
+msgstr ""
+
+#: inc/widgets/es-featured-products.php:18
+msgid "Display numbers of featured products from selective categories."
+msgstr ""
+
+#: inc/widgets/es-slider.php:18
+msgid "Display posts from selected category as grid view."
+msgstr ""
+
+#: inc/widgets/es-promo-items.php:18
+msgid "Display promos items which content are managed from customizer."
+msgstr ""
+
+#: inc/widgets/es-category-products.php:18
+msgid "Display WooCommerce product lists from selected category."
+msgstr ""
+
+#: inc/admin/es-class-notice.php:183
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/es-class-notice.php:157
+msgid "Done!"
+msgstr ""
+
+#. Name of the theme
+#: inc/customizer/es-customizer-stater.php:98
+msgid "Easy Store"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Easy Store is a beautifully designed e-commerce theme fully compatible with "
+"the most popular WooCommerce plugin. The theme comes with a clean and "
+"elegant design and developer friendly. It is fully responsive, translation "
+"ready, SEO friendly and compatible with WooCommerce, YITH WooCommerce "
+"Wishlist, and popular plugin. Use this theme for your e-commerce website, "
+"you will feel the best ever experience. Get free support at https:"
+"//mysterythemes.com/support and check the demo at https://demo.mysterythemes."
+"com/easy-store-demos/"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:368 inc/customizer/customizer.php:43
+msgid "Easy Store Pro"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:80 template-parts/content-page.php:36
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/customizer/es-innerpage-panel.php:59
+msgid "Enable archive page title prefix."
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:85
+msgid "Enable Block Widget Editor"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:267
+msgid "Enable breadcrumb section."
+msgstr ""
+
+#: inc/customizer/es-header-panel.php:208
+msgid "Enable cart icon in header."
+msgstr ""
+
+#: inc/customizer/es-footer-panel.php:58
+msgid "Enable Footer Widget Area"
+msgstr ""
+
+#: inc/customizer/customizer.php:67
+msgid "Enable HomePage Content"
+msgstr ""
+
+#: inc/customizer/es-header-panel.php:146
+msgid "Enable Login button"
+msgstr ""
+
+#: inc/customizer/es-header-panel.php:184
+msgid "Enable Primary Menu Sticky"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:327
+msgid "Enable Sidebar Sticky"
+msgstr ""
+
+#: inc/customizer/es-header-panel.php:59
+msgid "Enable Top Area"
+msgstr ""
+
+#: inc/customizer/es-header-panel.php:263
+msgid "Enable wishlist icon in header."
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:86
+msgid "Enable/disable Block-based Widgets Editor (since WordPress 5.8)"
+msgstr ""
+
+#: inc/customizer/customizer.php:68
+msgid "Enable/disable latest posts content in Home page."
+msgstr ""
+
+#: inc/customizer/es-header-panel.php:98
+msgid "Enter short info for single item."
+msgstr ""
+
+#: inc/customizer/es-frontpage-panel.php:80
+msgid "Enter short info for single promo."
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:210
+msgid "Enter social media url."
+msgstr ""
+
+#: inc/customizer/es-frontpage-panel.php:75
+msgid "Enter title for single promo."
+msgstr ""
+
+#: 404.php:18
+msgid "error"
+msgstr ""
+
+#: inc/widgets/es-advance-product-search.php:20
+msgid "ES: Advance Product Search"
+msgstr ""
+
+#: inc/widgets/es-call-to-action.php:20
+msgid "ES: Call To Action"
+msgstr ""
+
+#: inc/widgets/es-categories-collection.php:21
+msgid "ES: Categories Collection"
+msgstr ""
+
+#: inc/widgets/es-category-products.php:21
+msgid "ES: Category Products"
+msgstr ""
+
+#: inc/widgets/es-featured-products.php:21
+msgid "ES: Featured Products"
+msgstr ""
+
+#: inc/widgets/es-latest-posts.php:21
+msgid "ES: Latest Posts"
+msgstr ""
+
+#: inc/widgets/es-promo-items.php:21
+msgid "ES: Promo Items"
+msgstr ""
+
+#: inc/widgets/es-slider.php:21
+msgid "ES: Slider"
+msgstr ""
+
+#: inc/widgets/es-social-media.php:21
+msgid "ES: Social Media"
+msgstr ""
+
+#: inc/widgets/es-sponsors.php:21
+msgid "ES: Sponsors"
+msgstr ""
+
+#: inc/widgets/es-testimonials.php:21
+msgid "ES: Testimonials"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:575
+msgid "F"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:366
+msgid "Features"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:576
+msgid "Fixed"
+msgstr ""
+
+#: inc/widgets/es-widget-functions.php:101
+msgid "Footer %d"
+msgstr ""
+
+#: functions.php:64
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:182 inc/customizer/es-footer-panel.php:26
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/es-footer-panel.php:40
+msgid "Footer Widget Area"
+msgstr ""
+
+#: inc/widgets/es-categories-collection.php:41
+msgid "For perfect layout selected category should have an image."
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:429
+msgid "Forum"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:430
+msgid "Forum + Emails/Support Ticket"
+msgstr ""
+
+#: inc/customizer/es-customizer-helper.php:107
+msgid "Four Columns"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:374
+msgid "Free"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:96
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:179
+#: inc/customizer/es-frontpage-panel.php:25
+msgid "Front Page Settings"
+msgstr ""
+
+#: inc/customizer/es-customizer-helper.php:29
+msgid "Full Width"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:438
+msgid "GDPR Compatible"
+msgstr ""
+
+#: inc/admin/es-class-notice.php:148
+msgid "General Info"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:29
+msgid "General Settings"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:443
+msgid "Get access to all Pro features and power-up your website"
+msgstr ""
+
+#: inc/admin/es-class-notice.php:158
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:233
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:233
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:196
+msgid "Go to doc"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:398
+msgid "Google Fonts Options"
+msgstr ""
+
+#: inc/widgets/es-widget-functions.php:56
+msgid "Header Area"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:388
+msgid "Header Layout"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:176 inc/customizer/es-header-panel.php:26
+msgid "Header Settings"
+msgstr ""
+
+#: inc/es-breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: inc/widgets/es-widget-functions.php:71
+msgid "Home Page Section"
+msgstr ""
+
+#: inc/es-breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://mysterythemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://mysterythemes.com/wp-themes/easy-store"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:571
+msgid "I"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:320
+msgid "Import"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:319
+#, php-format
+msgid "Import %1$s"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:378
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:300
+msgid "Imported"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:299
+#, php-format
+msgid "Imported %1$s"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:572
+msgid "Improvement"
+msgstr ""
+
+#: inc/customizer/es-innerpage-panel.php:24
+msgid "Innerpage Settings"
+msgstr ""
+
+#: inc/customizer/es-override-defaults.php:23
+msgid "Innerpages Header Image"
+msgstr ""
+
+#: inc/admin/es-class-admin.php:464 inc/admin/es-class-dashboard.php:490
+msgid "Install and Activate"
+msgstr ""
+
+#: inc/admin/es-class-admin.php:463
+msgid "Installed & Activated"
+msgstr ""
+
+#: inc/admin/es-class-admin.php:463
+msgid "Installing & Activating"
+msgstr ""
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: template-parts/content-none.php:46
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/es-header-panel.php:92
+msgid "Item Icon"
+msgstr ""
+
+#: inc/customizer/es-header-panel.php:97
+msgid "Item Info"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:36
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:131
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/customizer/es-header-panel.php:81
+msgid "Left Content Settings"
+msgstr ""
+
+#: inc/customizer/es-customizer-helper.php:57
+#: inc/widgets/es-widget-functions.php:40
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/es-post-sidebar-meta.php:47
+msgid "Left sidebar"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/woocommerce.php:403
+msgid "Login"
+msgstr ""
+
+#: inc/woocommerce.php:401
+msgid "Logout"
+msgstr ""
+
+#: inc/customizer/es-header-panel.php:166
+msgid "Main Area"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:171
+msgid "Manage Sidebar"
+msgstr ""
+
+#: inc/customizer/es-header-panel.php:125
+msgid "Menu"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/es-breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/es-breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/es-breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/es-breadcrumbs.php:789 inc/es-breadcrumbs.php:845
+#: inc/es-breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:107
+msgid "More Features"
+msgstr ""
+
+#: inc/customizer/es-footer-panel.php:107
+#: inc/customizer/es-general-panel.php:232
+#: inc/customizer/es-general-panel.php:291
+#: inc/customizer/es-header-panel.php:319
+msgid "More Features with Easy Store Pro"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:111
+msgid "More Features With Pro"
+msgstr ""
+
+#: inc/customizer/es-customizer-helper.php:132
+msgid "More icons with official color."
+msgstr ""
+
+#. Author of the theme
+msgid "Mystery Themes"
+msgstr ""
+
+#: inc/admin/es-class-admin.php:469
+msgid "Mystery Themes Demo Importer Plugin is installed but not activated!"
+msgstr ""
+
+#: inc/admin/es-class-admin.php:462
+msgid "Mystery Themes Demo Importer Plugin is not installed!"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:567
+msgid "N"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:568
+msgid "New"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:274
+msgid "No demos are configured for this theme, please contact the theme author"
+msgstr ""
+
+#: inc/widgets/es-widget-fields.php:210
+#: inc/customizer/custom-controls/repeater/class-repeater-control.php:151
+msgid "No image selected"
+msgstr ""
+
+#: inc/woocommerce.php:311
+msgid "No products found"
+msgstr ""
+
+#: inc/customizer/es-customizer-helper.php:65
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/es-customizer-helper.php:69
+msgid "No Sidebar Center"
+msgstr ""
+
+#: inc/es-post-sidebar-meta.php:65
+msgid "No sidebar Content Centered"
+msgstr ""
+
+#: inc/es-post-sidebar-meta.php:59
+msgid "No sidebar Full width"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/customizer/es-customizer-helper.php:95
+msgid "One Column"
+msgstr ""
+
+#. 1: title.
+#: comments.php:36
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/admin/es-class-notice.php:178 inc/admin/es-class-notice.php:188
+msgid "opens in a new tab"
+msgstr ""
+
+#: inc/customizer/es-frontpage-panel.php:94
+#: inc/customizer/es-frontpage-panel.php:114
+msgid "Our Sponsors"
+msgstr ""
+
+#. %s is the page number.
+#: inc/es-breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:436
+msgid "Pages Sidebar Layout"
+msgstr ""
+
+#: template-parts/content-page.php:23 template-parts/content-search.php:41
+#: template-parts/content-single.php:38 template-parts/content.php:41
+msgid "Pages:"
+msgstr ""
+
+#: inc/widgets/es-advance-product-search.php:33
+msgid "Placeholder"
+msgstr ""
+
+#: inc/admin/es-class-admin.php:211
+msgid "Plugin activated successfully"
+msgstr ""
+
+#: inc/admin/es-class-admin.php:87 inc/admin/es-class-admin.php:186
+msgid "Plugin installed successfully"
+msgstr ""
+
+#: inc/admin/es-class-admin.php:112
+msgid "Plugin Successfully Activated."
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:101
+msgid "Plugins"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own language.
+#: inc/template-functions.php:136
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:53
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:393
+msgid "Posts Sidebar Layout"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:383
+msgid "Pre Loaders Layouts"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:373
+msgid "Price"
+msgstr ""
+
+#: functions.php:63
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:133
+msgid "Primary Theme Color"
+msgstr ""
+
+#: inc/admin/es-class-notice.php:157
+msgid "Processing"
+msgstr ""
+
+#: inc/widgets/es-category-products.php:53
+#: inc/widgets/es-featured-products.php:47
+msgid "Product Count"
+msgstr ""
+
+#: inc/customizer/es-frontpage-panel.php:69
+msgid "Promo Icon"
+msgstr ""
+
+#: inc/customizer/es-frontpage-panel.php:79
+msgid "Promo Info"
+msgstr ""
+
+#: inc/customizer/es-frontpage-panel.php:58
+msgid "Promo Items"
+msgstr ""
+
+#: inc/customizer/es-frontpage-panel.php:40
+msgid "Promo Section"
+msgstr ""
+
+#: inc/customizer/es-frontpage-panel.php:74
+msgid "Promo Title"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:308
+msgid "Purchase Now"
+msgstr ""
+
+#: inc/admin/es-class-notice.php:188
+msgid "Read full documentation"
+msgstr ""
+
+#: inc/customizer/es-customizer-stater.php:73
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/es-innerpage-panel.php:77
+#: inc/widgets/es-categories-collection.php:34
+msgid "Read More Text"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:27
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:478
+msgid "Recommended Free Plugins"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:592
+#, php-format
+msgid "Released on: <strong> %1$s </strong>"
+msgstr ""
+
+#: inc/widgets/es-widget-fields.php:217
+#: inc/customizer/custom-controls/repeater/class-repeater-control.php:146
+msgid "Remove"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:230
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:230
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/customizer/es-header-panel.php:117
+msgid "Right Content Settings"
+msgstr ""
+
+#: inc/customizer/es-customizer-helper.php:61
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/es-post-sidebar-meta.php:53
+msgid "Right sidebar"
+msgstr ""
+
+#: searchform.php:11 searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: inc/widgets/es-advance-product-search.php:34
+#: inc/widgets/es-advance-product-search.php:55
+msgid "Search Product"
+msgstr ""
+
+#. %s: search query.
+#: search.php:23 inc/es-custom-hooks.php:405
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. %s is the search query.
+#: inc/es-breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:157
+msgid "Secondary Theme Color"
+msgstr ""
+
+#: inc/widgets/es-call-to-action.php:33
+msgid "Section Background Image"
+msgstr ""
+
+#: inc/widgets/es-call-to-action.php:45
+msgid "Section Button Text"
+msgstr ""
+
+#: inc/widgets/es-call-to-action.php:51
+msgid "Section Button Url"
+msgstr ""
+
+#: inc/widgets/es-latest-posts.php:49
+msgid "Section Categories"
+msgstr ""
+
+#: inc/widgets/es-call-to-action.php:39
+msgid "Section Content"
+msgstr ""
+
+#: inc/widgets/es-category-products.php:40
+#: inc/widgets/es-featured-products.php:40 inc/widgets/es-latest-posts.php:42
+#: inc/widgets/es-promo-items.php:40 inc/widgets/es-sponsors.php:40
+#: inc/widgets/es-testimonials.php:40
+msgid "Section Info"
+msgstr ""
+
+#: inc/widgets/es-slider.php:64
+msgid "Section Post Count"
+msgstr ""
+
+#: inc/widgets/es-category-products.php:34
+#: inc/widgets/es-featured-products.php:34 inc/widgets/es-latest-posts.php:36
+#: inc/widgets/es-promo-items.php:34 inc/widgets/es-social-media.php:34
+#: inc/widgets/es-sponsors.php:34 inc/widgets/es-testimonials.php:34
+msgid "Section Title"
+msgstr ""
+
+#: inc/widgets/es-categories-collection.php:53
+#: inc/widgets/es-category-products.php:46 inc/widgets/es-testimonials.php:47
+msgid "Select Category"
+msgstr ""
+
+#: inc/widgets/es-widget-fields.php:218
+#: inc/customizer/custom-controls/repeater/class-repeater-control.php:145
+msgid "Select Image"
+msgstr ""
+
+#: inc/woocommerce.php:287
+msgid "Select Options"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:62
+msgid "Select Site Layout"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:165
+msgid "Setup site logo"
+msgstr ""
+
+#: inc/widgets/es-widget-functions.php:86
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/customizer/es-customizer-stater.php:65
+msgid "Shopping Item"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:309
+#: inc/widgets/es-widget-functions.php:25
+msgid "Sidebar"
+msgstr ""
+
+#: inc/es-post-sidebar-meta.php:16 inc/es-post-sidebar-meta.php:24
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/es-header-panel.php:86
+msgid "Single Item"
+msgstr ""
+
+#: inc/customizer/es-frontpage-panel.php:63
+msgid "Single Promo"
+msgstr ""
+
+#: inc/customizer/es-frontpage-panel.php:119
+msgid "Single Sponsor"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:44
+msgid "Site Layout"
+msgstr ""
+
+#: header.php:43
+msgid "Skip to content"
+msgstr ""
+
+#: inc/widgets/es-slider.php:71
+msgid "Slide button text"
+msgstr ""
+
+#: inc/customizer/es-header-panel.php:124
+msgid "Social Icon"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:209
+msgid "Social Icon Url"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:168 inc/customizer/es-general-panel.php:174
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:198
+msgid "Social Media Icon"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:194
+msgid "Social Media Icons"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:204
+msgid "Social Media Logo"
+msgstr ""
+
+#: template-parts/content-none.php:40
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/admin/es-class-admin.php:31 inc/admin/es-class-admin.php:130
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: inc/customizer/es-frontpage-panel.php:125
+msgid "Sponsor Logo"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:91 inc/admin/es-class-notice.php:178
+msgid "Stater Sites"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:134
+msgid "Submit a review"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:428
+msgid "Support"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:579
+msgid "T"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:418
+msgid "The Events Calendar Plugin Compatible"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:191
+msgid "Theme Documentation"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: inc/es-custom-hooks.php:560
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:479
+msgid "These Free Plugins might be handy for you."
+msgstr ""
+
+#: inc/customizer/es-customizer-helper.php:103
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer/es-header-panel.php:41
+msgid "Top Area"
+msgstr ""
+
+#: functions.php:62
+msgid "Top Menu"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:217
+msgid "Tutorial"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:580
+msgid "Tweak"
+msgstr ""
+
+#: inc/customizer/es-customizer-helper.php:99
+msgid "Two Columns"
+msgstr ""
+
+#: inc/customizer/es-customizer-helper.php:136
+msgid "Typography Option"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:393
+msgid "Typography Options"
+msgstr ""
+
+#: inc/admin/es-class-admin.php:69 inc/admin/es-class-admin.php:167
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: inc/customizer/custom-controls/upgrade/class-upgrade-control.php:85
+msgid "upgrade to pro"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:108
+msgid "Upgrade to pro for site layout advanced settings."
+msgstr ""
+
+#: inc/customizer/es-frontpage-panel.php:126
+msgid "Upload logo for sponsor."
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:520
+#, php-format
+msgid "Version %1$s"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:79 inc/admin/es-class-dashboard.php:591
+#, php-format
+msgid "Version: %1$s"
+msgstr ""
+
+#: inc/widgets/es-categories-collection.php:35
+msgid "View Collection"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:327
+msgid "View Demo"
+msgstr ""
+
+#: inc/woocommerce.php:218
+msgid "View your shopping cart"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/es-breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/es-breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:86
+msgid "Welcome"
+msgstr ""
+
+#: inc/customizer/es-footer-panel.php:80
+msgid "Widget Area Column"
+msgstr ""
+
+#: inc/customizer/es-customizer-stater.php:67
+msgid "Wishlist"
+msgstr ""
+
+#: inc/es-custom-hooks.php:320
+msgid "Wishlist Tab"
+msgstr ""
+
+#: inc/customizer/es-header-panel.php:286
+msgid "WishList text"
+msgstr ""
+
+#: inc/customizer/es-general-panel.php:477
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/widgets/es-slider.php:32
+msgid "WooCommerce Category"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:408
+msgid "WooCommerce Compatible"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:222
+msgid "WP Tutorials"
+msgstr ""
+
+#: inc/es-breadcrumbs.php:788 inc/es-breadcrumbs.php:817
+#: inc/es-breadcrumbs.php:844 inc/es-breadcrumbs.php:871
+#: inc/es-breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/admin/es-class-dashboard.php:413
+msgid "YITH Quick View Compatible"
+msgstr ""
+
+#: inc/admin/es-class-admin.php:458
+msgid "You can import available demos now!"
+msgstr ""

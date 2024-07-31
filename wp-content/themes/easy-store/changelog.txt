@@ -1,0 +1,126 @@
+== 1.2.2 2024-05-14 ==
+- Fix: Design issue fixed for cart and checkout blocks.
+- Fix: Cart page block error fixed.
+- Fix: Dual button issue fixed for yith wishlist button in product blocks
+
+== 1.2.1 2023-11-09 ==
+- Fix: Bug in cusotmizer stater file.
+- Imp: Changed the cusotmizer radio image file.
+- Fix: Top header login icon fixed.
+
+== 1.2.0 2023-11-08 ==
+- Imp: Major update UI/UX in customizer panel.
+- Imp: Theme admin dashboard page.
+
+== 1.1.8 2023-02-16 ==
+- New: Sticky sidebar on/off option added in product/shop pages.
+
+== 1.1.7 2022-12-06 ==
+- Account design tweaks done.
+
+== 1.1.6 2022-07-05 ==
+- New: block based widget design added.
+- New: Block based tag dynamic hover color added.
+
+== 1.1.5 2022-03-28 ==
+- New: switch option for block base widget editor.
+- Fix: background issue in theme setting page.
+Some design tweaks done inn comment box and site title.
+
+== 1.1.4 2021-12-23 ==
+Posts and archive pages design tweaks done.
+- Fix: Long post navigation issue fixed.
+- Fix: Design glitch fixed in woocommerce pages.
+
+== 1.1.3 2021-03-05 ==
+- Fix: Keyboard navigation js at responsive menu.
+Tags meta moved to post meta section in archive pages.
+- Fix: 404 page design and responsive fixes done.
+- Imp: Updated woocommerce page sidebar css updated.
+
+== 1.1.2 2020-08-16 ==
+- Imp: Added prefix for global variables.
+- Fix: Theme settings demos file path.
+- Fix: show WooCommerce related customizer option if required plugins are activated.
+- Imp: Updated .pot file.
+
+== 1.1.1 2020-07-20 ==
+- New: "wp_body_open" hook added in header.
+- Fix: Theme review css issue fixed.
+Some design tweaks and bug fix done
+
+== 1.1.0 2020-05-22 ==
+- Imp: Replaced welcome page with theme settings page.
+- Fix: breadcrumb structure data issue.
+- Imp: Removed unused files and folders.
+- Imp: Updated .pot file.
+
+== 1.0.16 2019-12-23 ==
+- Fix: bugs at widget's multicheckbox.
+- Imp: Updated .pot file.
+
+== 1.0.15 2019-11-07 ==
+- Imp: Style removed for welcome page block.
+- Imp: Skip Link and accessibility style changes.
+- Imp: Custom script file changes.
+
+== 1.0.14 2019-06-11 ==
+- Fix: bugs at categories collection widget.
+- Imp: Change about page to welcome at the backend.
+
+== 1.0.13 2018-12-27 ==
+- Fix: bugs at customizer classes file.
+- Fix: design bugs at related product section.
+- New: new filter for shopping cart label.
+
+== 1.0.12 2018-10-28 ==
+some typo and design tweaks are done.
+
+== 1.0.11 2018-09-15 ==
+- Fix: text-domain bugs.
+- Imp: Changed the id of action hook in server files.
+- Imp: Removed commented code.
+- Imp: Deleted unwanted folder/files from the theme folder.
+
+== 1.0.10 2018-07-10 ==
+Some design tweaks are done.
+- Fix: Category collection layouts managed.
+
+== 1.0.9 2018-06-26 ==
+- Fix: Site title tag at the static front page.
+- Fix: Hover color of cart section at the header.
+
+== 1.0.8 2018-05-14 ==
+- New: auto slide feature added on the slider.
+Some design tweaks are done.
+Some tweaks were done on about page.
+
+== 1.0.7 2018-05-08 ==
+- New: Added about page for more information.
+- New: Added upsell link at customizer section.
+Some design tweaks are done.
+
+== 1.0.6 2018-05-03 ==
+WooCommerce design tweaks done.
+
+== 1.0.5 2018-04-30 ==
+- Imp: Changed the sanitize function at the repeater field.
+
+== 1.0.4 2018-04-30 ==
+- Fix: Icon sanitization in repeater field.
+
+== 1.0.3 2018-04-26 ==
+- Fix: Repeater field sanitize.
+- Fix: Admin review section.
+
+== 1.0.2 2018-04-24 ==
+- Fix: Some Typo.
+- Imp: Changed some textarea to the text field.
+
+== 1.0.1 2018-04-23 ==
+- Imp: Added some extra features and theme color options.
+- Fix: Sidebar issue on inner pages.
+- Fix: Responsive design.
+
+== 1.0.0 2018-04-04 ==
+- New: Submit theme on wp.org repo.

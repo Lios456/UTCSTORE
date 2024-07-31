@@ -1,0 +1,568 @@
+/**
+ * Combine styles for Customizer Controls.
+ *
+ * @package Mystery Themes
+ * @subpackage Easy Store
+ * @since 1.0.0
+ */
+
+/*--------------------
+    General css
+-------------------*/
+
+#accordion-panel-easy_store_footer_settings_panel {
+    margin-bottom: 20px;
+}
+
+/*=================================================
+            Repeater field
+=================================================*/
+.es-clearfix:after,
+.es-clearfix:before{
+    content: "";
+    display: table;
+}
+
+.es-clearfix:after{
+    clear: both;
+}
+
+.es-repeater-field-control{
+    background: #FFF;
+    margin-bottom: 12px;
+    display: block;
+}
+
+.es-repeater-footer{
+    margin-top: 15px;
+    text-align: right;
+}
+
+.es-repeater-field-control:first-child .es-repeater-footer{
+    display: none;
+}
+
+.es-repeater-field-title{
+    padding: 13px 15px;
+    line-height: 1;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin: 0;
+    font-size: 1em;
+    border: 1px solid #e5e5e5;
+    cursor: move;
+    position: relative;
+    border-bottom: 0;
+}
+
+.es-repeater-field-title:after {
+    content: "\f142";
+    font: 400 20px/1 dashicons;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 1px 2px 1px 0;
+    margin-top: 10px;
+    margin-right: 10px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.es-repeater-field-control.expanded .es-repeater-field-title:after{
+    content: "\f140";
+}
+
+.es-repeater-fields{
+    padding: 0 10px 10px;
+    border-top: none;
+    line-height: 16px;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    display: none;
+}
+
+.es-repeater-fields .customize-control-title{
+    margin-top: 10px;
+}
+
+.es-repeater-field-control.expanded .es-repeater-fields{
+    display: block;
+}
+
+.es-reapeater-add-control-field {
+    float: right;
+}
+
+.es-reapeater-add-add-control-field:before {
+    content: "\f132";
+    display: inline-block;
+    position: relative;
+    left: -2px;
+    top: -1px;
+    font: 400 18px/1 dashicons;
+    vertical-align: middle;
+}
+
+.es-repeater-type-icon{
+    overflow: hidden;
+}
+
+.es-repeater-selected-icon{
+    background: #F6F6F6;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    border: 1px solid #EEE;
+    position: relative;
+    margin-right: 45px;
+    cursor: pointer;
+    font-size: 28px;
+}
+
+.es-repeater-selected-icon span{
+    position: absolute;
+    background: #F6F6F6;
+    right: -45px;
+    top: -1px;
+    height: 45px;
+    width: 45px;
+    border: 1px solid #EEE;
+    font-size: 20px;
+}
+
+.es-repeater-icon-list{
+    height: 215px;
+    overflow-y: scroll;
+    font-size: 18px;
+    border: 1px solid #EEE;
+    border-right: 0;
+    border-top: 0;
+    padding-bottom: 4%;
+    display: none;
+    cursor: pointer;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.es-repeater-icon-list li{
+    float: left;
+    margin: 4% 3% 0;
+    height: 40px;
+    width: 16%;
+    text-align: center;
+    line-height: 40px;
+    border: 1px solid #EEE;
+}
+
+.es-repeater-icon-list li:hover{
+    background: #333;
+    border: 1px solid #333;
+    color: #FFF;
+}
+
+.es-repeater-icon-list li.icon-active{
+    background: #0073aa;
+    border: 1px solid #0073aa;
+    color: #FFF;
+}
+
+.customize-control-repeater .es-limit-msg {
+    display:  none;
+}
+
+.customize-control-repeater span.es-limit-msg:nth-of-type(2) {
+    display: block;
+    background: #fff;
+    padding: 10px 15px;
+    margin: 10px 0 10px;
+    border-left: 3px solid #ffb900;
+}
+
+/*=================================================
+             Pro theme link
+=================================================*/
+#customize-controls .control-section-upsell .accordion-section-title:hover,
+#customize-controls .control-section-upsell .accordion-section-title:focus {
+    background-color: #fff;
+}
+
+.control-section-upsell .accordion-section-title .button {
+    margin-top:  -4px;
+    font-weight: 700;
+    margin-left: 8px;
+    border-color: #029FB2;
+    background-color: #029FB2;
+    color: #fff;
+}
+
+.control-section-upsell .accordion-section-title .button:hover {
+    background: #1FA3E8;
+    background:linear-gradient(#1FA3E8,#1FA3E8);
+}
+
+.customize-control-mt-upgrade {
+    background: #fff;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.customize-control-title.upgrade-title i {
+    vertical-align: middle;
+    margin-right: 5px;
+    font-size: 18px;
+}
+
+.upgrade-description {
+    margin: 5px 0 10px;
+}
+
+.mt-upgrade-btn {
+    background: #2271b1;
+    color: #fff;
+    padding: 7px 10px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 3px;
+    line-height: 19px;
+    text-transform: capitalize;
+}
+
+.mt-upgrade-btn:hover {
+    background: #135E96;
+    color: #fff;
+}
+
+/*---------------------------
+    Toggle
+---------------------------*/
+.customize-control-es-toggle .toggle--wrapper {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: row;
+
+    -webkit-box-direction: normal;
+    -webkit-box-orient: horizontal;
+    -webkit-box-pack: start;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    -ms-flex-pack: start;
+    -webkit-justify-content: flex-start;
+    justify-content: flex-start;
+}
+
+.customize-control-es-toggle .toggle--wrapper .customize-control-title {
+    font-weight: 400;
+    margin-bottom: 7px;
+    vertical-align: middle;
+    -webkit-box-flex: 2;
+    -webkit-flex: 2 0 0;
+    -ms-flex: 2 0 0;
+    flex: 2 0 0;
+}
+
+.customize-control-es-toggle .toggle--wrapper input[type=checkbox] {
+    display: none;
+}
+
+.customize-control-es-toggle {
+    margin-bottom: 0
+}
+
+.customize-control-es-toggle .toggle--wrapper label {
+    background-color: #555d66;
+    border-radius: 14px;
+    cursor: pointer;
+    display: inline-block;
+    height: 20px;
+    outline: none;
+    position: relative;
+    right: 0px;
+    top: 2px;
+    -webkit-transition: background 0.2s ease;
+    transition: background 0.2s ease;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 34px;
+}
+
+.customize-control-es-toggle .toggle--wrapper label::after,
+.customize-control-es-toggle .toggle--wrapper label::before {
+    content: "";
+    display: block;
+    position: absolute;
+}
+
+.customize-control-es-toggle .toggle--wrapper label::after {
+    border: 2px solid #555d66;
+    border-radius: 50%;
+    box-sizing: border-box;
+    height: 12px;
+    left: 4px;
+    top: 4px;
+    -webkit-transition: background 0.2s ease, -webkit-transform 0.2s ease;
+    transition: background 0.2s ease, -webkit-transform 0.2s ease;
+    transition: transform 0.2s ease, background 0.2s ease;
+    transition: transform 0.2s ease, background 0.2s ease, -webkit-transform 0.2s ease;
+    width: 12px;
+}
+
+.customize-control-es-toggle .toggle--wrapper label::before {
+    background-color: #eee;
+    border-radius: 60px;
+    bottom: 2px;
+    left: 2px;
+    right: 2px;
+    top: 2px;
+    -webkit-transition: background 0.2s ease;
+    transition: background 0.2s ease;
+}
+
+.customize-control-es-toggle .toggle--wrapper input[type=checkbox]:checked + label {
+    background-color: #4ABBD5;
+}
+
+.customize-control-es-toggle .toggle--wrapper input[type=checkbox]:checked + label::after {
+    background-color: #4ABBD5;
+    border: 2px solid #fff;
+    -webkit-transform: translateX(14px);
+    -ms-transform: translateX(14px);
+    transform: translateX(14px);
+}
+
+.customize-control-es-toggle .toggle--wrapper input[type=checkbox]:checked + label::before {
+    background-color: #4ABBD5;
+}
+
+.customize-control-es-toggle:hover .toggle--wrapper label::before {
+    background-color: #d9dcdf;
+}
+
+.es-toggle {
+    border-bottom: 1px dashed #979797;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+/*--------------------------
+    Radio Image
+--------------------------*/
+.customize-control-es-radio-image > .image {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.customize-control-es-radio-image label {
+    position: relative;
+    display: inline-block;
+}
+
+.customize-control-es-radio-image input {
+    display: none;
+}
+
+.customize-control-es-radio-image input img {
+    border: 1px solid transparent;
+}
+
+.customize-control-es-radio-image input:checked + label img {
+    -webkit-box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.25);
+    border: 1px solid #3498DB;
+}
+
+.customize-control-es-radio-image .image label img {
+    border: 3px solid transparent;
+    padding: 2px;
+}
+
+.customize-control-es-radio-image .image label img:hover {
+    border: 3px solid #A6A6A6;
+}
+
+.customize-control-es-radio-image input:checked + label img:hover {
+    border: 3px solid #00a0d2;
+}
+
+.customize-control-es-radio-image input:checked + label img {
+    box-sizing: border-box;
+    max-width: 100%;
+    height: auto;
+    padding: 2px;
+    border: 3px solid transparent;
+}
+
+.customize-control-es-radio-image input:checked + label img {
+    border-color: #00a0d2;
+    display: block;
+}
+
+.customize-control-es-radio-image .image label {
+    margin-right: 10px;
+    vertical-align: top;
+}
+
+.customize-control-es-radio-image input:checked + label img {
+    box-shadow: none;
+}
+
+.customize-control-es-radio-image > .image {
+    display: block;
+}
+
+.customize-control-es-radio-image .image label:hover .tooltip-text {
+    opacity: 1;
+    visibility: visible;
+    top: -32px;
+}
+
+.customize-control-es-radio-image .radio-label {
+    display: block;
+    font-size: 9px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .4px;
+    text-align: center;
+}
+
+.tooltip-text {
+    position: absolute;
+    display: block;
+    top: -36px;
+    background: #333;
+    color: #fff;
+    padding: 4px 0;
+    font-size: 10px;
+    border-radius: 3px;
+    opacity: 0;
+    visibility: hidden;
+    left: 50%;
+    width: 80px;
+    text-align: center;
+    margin-left: -40px;
+    box-sizing: border-box;
+    transition: all .5s ease;
+}
+
+.tooltip-text::before {
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #333;
+    content: "";
+    position: absolute;
+    left: 50%;
+    bottom: -5px;
+    margin-left: -2px;
+}
+
+/*---------------------------
+    Heading
+---------------------------*/
+.mt-customizer-heading {
+    display: block;
+    margin: 0 -12px;
+    padding: 13px 12px;
+    background-color: #fff;
+    color: #555;
+    border: 1px solid #ddd;
+    border-left: 0;
+    border-right: 0;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1.3px;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+.customize-control-es-heading .description {
+    margin-top: 10px;
+}
+
+/*---------------------------
+    Upgrade
+---------------------------*/
+
+.customize-control-es-upgrade {
+    background: #fff;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.customize-control-title.upgrade-title i {
+    vertical-align: middle;
+    margin-right: 5px;
+    font-size: 18px;
+}
+
+.upgrade-description {
+    margin: 5px 0 10px;
+}
+
+.mt-upgrade-btn {
+    background: #2271b1;
+    color: #fff;
+    padding: 7px 10px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 3px;
+    line-height: 19px;
+    text-transform: capitalize;
+}
+
+.mt-upgrade-btn:hover {
+    background: #135E96;
+    color: #fff;
+}
+
+.mt-upgrade-pro-wrapper .upgrade-title-wrap {
+    color: #414141;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.mt-upgrade-pro-wrapper .upgrade-title-wrap::before {
+    content: "\f14c";
+    font-family: dashicons;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: bottom;
+    margin-right: 5px;
+}
+
+.mt-upgrade-pro-wrapper .upgrade-item::before {
+    content: "\f147";
+    font-family: dashicons;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: bottom;
+    margin-right: 5px;
+}
+
+.mt-upgrade-pro-wrapper .upgrade-list-item {
+    margin: 15px 0 15px;
+}
+
+.mt-upgrade-btn {
+    margin: 0;
+    background: #4abbd5;
+    color: #fff;
+    border-color: #4abbd5;
+    padding: 10px 15px;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-weight: 600;
+    border-radius: 3px;
+}
+
+.mt-upgrade-btn:hover {
+    background: #38aac4;
+    color: #fff;
+    border-color: #38aac4;
+}
